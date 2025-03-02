@@ -88,23 +88,7 @@ By integrating SHAP, the project ensures that stakeholders can comprehend the ra
 
 ## Contributing
 
-Contributions to enhance the project are welcome. To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch-name
-   ```
-3. Make your changes.
-4. Commit your changes:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-5. Push to the branch:
-   ```bash
-   git push origin feature-branch-name
-   ```
-6. Open a pull request.
+Contributions to enhance the project are welcome.
 
 ## License
 
